@@ -9,8 +9,8 @@ Shell Script 실습 폴더입니다.
 
 | 스크립트 이름             | 설명                                | 문서 보기                                      |
 |---------------------------|-------------------------------------|------------------------------------------------|
-| `git_commit_count.sh`     | 연도별 커밋 수를 파일별로 분석       | [./docs/git_commit_count.md](./git_commit_count.md)   |
-| `check_mem_usage.sh`      | 전체 또는 특정 프로세스 메모리 사용량 확인 | [./docs/check_mem_usage.md](./check_mem_usage.md)     |
+| `git_commit_count.sh`     | 연도별 커밋 수를 파일별로 분석       | [docs/git_commit_count.md](./git_commit_count.md)   |
+| `check_mem_usage.sh`      | 전체 또는 특정 프로세스 메모리 사용량 확인 | [docs/check_mem_usage.md](./check_mem_usage.md)     |
 
 ---
 
