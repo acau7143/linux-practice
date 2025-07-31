@@ -10,7 +10,7 @@
 
 ## 🧪 스크립트 코드
 
-전체 코드는 [scripts/check_mem_usage.sh](scripts/check_mem_usage.sh) 참조.
+전체 코드는 [check_mem_usage.sh](../scripts/check_mem_usage.sh) 참조.
 
 ---
 
