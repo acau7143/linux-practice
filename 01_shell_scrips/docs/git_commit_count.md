@@ -9,7 +9,7 @@
 
 ## 🧪 스크립트 코드
 
-전체 코드는 [git_commit_count.sh](./git_commit_count.sh) 참조.
+전체 코드는 [scripts/git_commit_count.sh](scripts/git_commit_count.sh) 참조.
 
 ---
 
