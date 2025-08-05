@@ -14,7 +14,15 @@ Shell Script 실습 폴더입니다.
 | `check_kernel_task.sh`    | 커널 스레드(PF_KTHREAD) 식별 스크립트     | [docs/check_kernel_task.md](docs/check_kernel_task.md) |
 
 ---
+## 📘 셸 스크립트 책 정리
 
+『처음 배우는 셸 스크립트』 책 내용을 바탕으로 정리한 학습 문서입니다.
+
+| 챕터 | 내용 요약 | 문서 보기 |
+|------|-----------|-----------|
+| 2장 | 변수 선언, 위치 매개변수, 변수 확장 등 기초 문법 | [docs/shell_book/02_shell_script_basics.md](docs/shell_book/02_shell_script_basics.md) |
+
+---
 ## 🛠 실행 방법 예시
 
 ```bash
