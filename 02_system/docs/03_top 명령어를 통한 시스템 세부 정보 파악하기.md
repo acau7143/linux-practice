@@ -6,7 +6,7 @@
 
 명령어 uptime 과 동일한 결과를 보여줌
 
-![image.png](images/image.png)
+![image.png](../images/image.png)
 
 ---
 
@@ -24,7 +24,7 @@ cat /proc/loadavg : 똑같은 결과 얻기 가능
 
 ```
 
-![image.png](images/image%201.png)
+![image.png](../images/image%201.png)
 
 ---
 
@@ -52,7 +52,7 @@ I는 S처럼 보이지만 엄밀히 말해 별도 상태이며, total이나 slee
 | 해결 방법 | 부모가 `wait()` 호출해야 함 | init/systemd가 자동 처리 |
 | 시스템 영향 | 너무 많으면 PID 고갈 가능 | 일반적으로 문제 없음 |
 
-![image.png](images/image%202.png)
+![image.png](../images/image%202.png)
 
 ---
 
@@ -75,7 +75,7 @@ I는 S처럼 보이지만 엄밀히 말해 별도 상태이며, total이나 slee
 | 예시 | 패킷 도착, 키보드 입력 | 패킷 처리, 복사, 분석 |
 | 특징 | 빠르게 반응, 가볍게 처리 | 무거운 일, 천천히 처리 |
 
-![image.png](images/image%203.png)
+![image.png](../images/image%203.png)
 
 ---
 
@@ -85,12 +85,12 @@ I는 S처럼 보이지만 엄밀히 말해 별도 상태이며, total이나 slee
 free
 ```
 
-![image.png](images/image%204.png)
+![image.png](../images/image%204.png)
 
 ---
 
 # 프로세스별 세부 정보
 
-![image.png](images/image%205.png)
+![image.png](../images/image%205.png)
 
-![image.png](images/image%206.png)
+![image.png](../images/image%206.png)
