@@ -19,7 +19,7 @@ cat /sys/fs/cgroup/cpu/user.slice/tasks | grep $$
 # ** 모든 프로세스는 기본 cgroup에 포함이 된다. **
 ```
 
-![04_1.png](04_1.png)
+![04_1.png](../images/04_1.png)
 
 ---
 
@@ -37,7 +37,7 @@ cat /sys/fs/cgroup/cpu/cpu.cfs_period_us
 
 ```
 
-![04_2.png](04_2.png)
+![04_2.png](../images/04_2.png)
 
 ## 프로세스 실행한 runtime 확인하기
 
