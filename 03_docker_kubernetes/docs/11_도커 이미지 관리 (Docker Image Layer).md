@@ -1,8 +1,5 @@
 # 도커 이미지 관리 (Docker Image Layer)
 
-생성 일시: 2026년 1월 13일 오후 12:08
-최종 편집 일시: 2026년 1월 13일 오후 1:05
-
 ```
 docker file 에서 from 에 적히는 내용은 base image가 적히게 된다. 
 
